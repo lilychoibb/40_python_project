@@ -1,3 +1,5 @@
+# 필요한 정보만 출력하는 코드
+
 import psutil
 
 cpu = psutil.cpu_freq()
